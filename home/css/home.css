@@ -1,0 +1,16 @@
+			body{
+				background-color: #40C4FF;
+			}
+			.mdui-container-fluid{
+				margin-top: 10vh;
+			}
+			svg{
+				cursor: pointer;
+				position: relative;
+				z-index: 2;
+			}
+			canvas{
+			  position: absolute;
+			  top: 0;
+			  z-index: 1;
+			}
